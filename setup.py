@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='password-generator-cli',
-    version='0.1',
+    name='password-generator',
+    version='1',
     packages=find_packages(),
     install_requires=[
         'pyperclip',
@@ -15,9 +15,9 @@ setup(
     description="A command-line tool for generating secure passwords.",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    author="Your Name",
-    author_email="your.email@example.com",
-    url="https://github.com/yourusername/password-generator",
+    author="Mahery",
+    author_email="maherytsarovana@gmail.com",
+    url="https://github.com/Mahery19/password_generator",
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',

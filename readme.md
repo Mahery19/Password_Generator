@@ -13,4 +13,4 @@ A simple, command-line tool for generating strong, random passwords to enhance s
 Install the package via `pip`:
 
 ```bash
-pip install password-generator-cli
+pip install password-generator
