@@ -5,19 +5,19 @@ setup(
     version='0.1',
     packages=find_packages(),
     install_requires=[
-        'pyperclip'
+        'pyperclip',
     ],
     entry_points={
         'console_scripts': [
-            'password-generator=pass_gen.generator:main',
+            'password-generator=password_generator.generator:main',
         ],
     },
     description="A command-line tool for generating secure passwords.",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    author="Mahery",
-    author_email="maherytsarovana@gmail.com",
-    url="https://github.com/Mahery19/Password_Generator",
+    author="Your Name",
+    author_email="your.email@example.com",
+    url="https://github.com/yourusername/password-generator",
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
