@@ -9,7 +9,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'password-generator=password generator.generator:main',
+            'password-generator=pass_gen.generator:main',
         ],
     },
     description="A command-line tool for generating secure passwords.",
