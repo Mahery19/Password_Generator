@@ -17,7 +17,7 @@ setup(
     long_description_content_type='text/markdown',
     author="Mahery",
     author_email="maherytsarovana@gmail.com",
-    url="https://github.com/mahery19/password-generator",
+    url="https://github.com/mahery19/password_generator",
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
