@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='password-generator',
+    name='password-generator-by-mahery',
     version='1',
     packages=find_packages(),
     install_requires=[
@@ -9,7 +9,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'password-generator=password_generator.generator:main',
+            'password-generator-by-mahery=password_generator.generator:main',
         ],
     },
     description="A command-line tool for generating secure passwords.",
