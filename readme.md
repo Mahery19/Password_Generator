@@ -14,7 +14,7 @@ Install the package via `pip`:
 
 ```bash
 pip install password-generator-by-mahery
-
+```
 ## Run
 
 Run the package via :
