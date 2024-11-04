@@ -13,4 +13,11 @@ A simple, command-line tool for generating strong, random passwords to enhance s
 Install the package via `pip`:
 
 ```bash
-pip install password-generator
+pip install password-generator-by-mahery
+
+## Run
+
+Run the package via :
+
+```bash
+password-generator-by-mahery
